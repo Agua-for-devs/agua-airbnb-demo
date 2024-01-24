@@ -224,8 +224,8 @@ min-width:  unset ;width: fit-content ;
 p.text-11-43f3cda217fd4431907a40672b74aacc[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
-
-
+font-size: 12px ;
+font-weight: bold ;
 
 
 
@@ -233,7 +233,7 @@ font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif 
 p.text-12-59799e6d88174c24bfc206744f770c3a[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
-
+font-size: 14px ;
 
 
 
@@ -242,27 +242,91 @@ font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif 
 section.layer-26-c078473592374be8b5422bbe2da36f0d[custom-agua-item="layer"] {
     
 
-height: 100px ;min-height: 100px ;
-width: 300px ;min-width: 300px ;
+margin-left: 64px ;
+margin-right: 48px ;
+box-sizing: border-box ;
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+}
+p.text-13-01b5d13e66364a56a3436c7e90ff85be[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 12px ;
+font-weight: bold ;
+
+
+
+}
+p.text-14-7fa1692cbccd4c8a9eb8aa76269e6cd3[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 14px ;
+
+
+
+
 }
 section.layer-27-92d7467e5f554fe2a61e3a8fe1ebcc31[custom-agua-item="layer"] {
     
 
-height: 100px ;min-height: 100px ;
-width: 300px ;min-width: 300px ;
+margin-left: 48px ;
+margin-right: 48px ;
+box-sizing: border-box ;
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+}
+p.text-15-9eae9db4b76d4ace8c7f1bb82bdf30d0[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 12px ;
+font-weight: bold ;
+
+
+
+}
+p.text-16-cc6641933a3448aea3079627482548df[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 14px ;
+
+
+
+
 }
 section.layer-28-36de892750474ce8831b73384aea57fe[custom-agua-item="layer"] {
     
 
-height: 100px ;min-height: 100px ;
-width: 300px ;min-width: 300px ;
+margin-left: 48px ;
+margin-right: 64px ;
+box-sizing: border-box ;
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+}
+p.text-17-4f0c455196af436b9fecbf5aa98c647b[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 12px ;
+font-weight: bold ;
+
+
+
+}
+p.text-18-2ec86bbeef2742d390ceb5c038969cb7[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 14px ;
+
+
+
+
 }
 section.layer-29-4e1033e9b8ea412abae6ed8edf646b8c[custom-agua-item="layer"] {
     
 
-height: 100px ;min-height: 100px ;
-width: 300px ;min-width: 300px ;
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
 }
+
 section.divider2[custom-agua-item="layer"] {
     
 

@@ -46,13 +46,24 @@ const Home = () =>{
 </section>
 <section custom-agua-item="layer" className={styles['layer-15-50b404c305c34c4aa25f534d7851e9c9']}   >
 <section custom-agua-item="layer" className={styles['layer-25-0e67ec5cda7741c28de85350c958a4df']}   >
-<p custom-agua-item="text" className={styles['text-11-43f3cda217fd4431907a40672b74aacc']}   >Type...</p>
-<p custom-agua-item="text" className={styles['text-12-59799e6d88174c24bfc206744f770c3a']}   >Type...</p>
+<p custom-agua-item="text" className={styles['text-11-43f3cda217fd4431907a40672b74aacc']}   >Where</p>
+<p custom-agua-item="text" className={styles['text-12-59799e6d88174c24bfc206744f770c3a']}   >Search destinations</p>
 </section>
-<section custom-agua-item="layer" className={styles['layer-26-c078473592374be8b5422bbe2da36f0d']}   ></section>
-<section custom-agua-item="layer" className={styles['layer-27-92d7467e5f554fe2a61e3a8fe1ebcc31']}   ></section>
-<section custom-agua-item="layer" className={styles['layer-28-36de892750474ce8831b73384aea57fe']}   ></section>
-<section custom-agua-item="layer" className={styles['layer-29-4e1033e9b8ea412abae6ed8edf646b8c']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-26-c078473592374be8b5422bbe2da36f0d']}   >
+<p custom-agua-item="text" className={styles['text-13-01b5d13e66364a56a3436c7e90ff85be']}   >Check in</p>
+<p custom-agua-item="text" className={styles['text-14-7fa1692cbccd4c8a9eb8aa76269e6cd3']}   >Add dates</p>
+</section>
+<section custom-agua-item="layer" className={styles['layer-27-92d7467e5f554fe2a61e3a8fe1ebcc31']}   >
+<p custom-agua-item="text" className={styles['text-15-9eae9db4b76d4ace8c7f1bb82bdf30d0']}   >Check out</p>
+<p custom-agua-item="text" className={styles['text-16-cc6641933a3448aea3079627482548df']}   >Add dates</p>
+</section>
+<section custom-agua-item="layer" className={styles['layer-28-36de892750474ce8831b73384aea57fe']}   >
+<p custom-agua-item="text" className={styles['text-17-4f0c455196af436b9fecbf5aa98c647b']}   >Who</p>
+<p custom-agua-item="text" className={styles['text-18-2ec86bbeef2742d390ceb5c038969cb7']}   >Add guests</p>
+</section>
+<section custom-agua-item="layer" className={styles['layer-29-4e1033e9b8ea412abae6ed8edf646b8c']}   >
+<span custom-agua-item="icon"   >search</span>
+</section>
 </section>
 </section>
 </section>
