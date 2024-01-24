@@ -160,12 +160,31 @@ font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif 
 
 section.layer-26-503c3e91ce524f208d4fe958b3be2b2a[custom-agua-item="layer"] {
     flex-direction: row ;
-
+border: 1px solid #E0E0E0;
+border-radius: 25px ;
+padding-top: 10px ;
+padding-bottom: 10px ;
+margin-left: 8px ;
+box-sizing: border-box ;
 min-height:  unset ;height: fit-content ;
 min-width:  unset ;width: fit-content ;
 }
+.icon-5-521239dab55d477c80ddc047800735f9[custom-agua-item="icon"] {
+    
+margin-left: 10px ;
+margin-right: 4px ;
+box-sizing: border-box ;
 
 
+}
+.icon-6-92a33771ab25410b91f24f388476e3b5[custom-agua-item="icon"] {
+    
+margin-left: 4px ;
+margin-right: 10px ;
+box-sizing: border-box ;
+
+
+}
 section.layer-15-50b404c305c34c4aa25f534d7851e9c9[custom-agua-item="layer"] {
     
 

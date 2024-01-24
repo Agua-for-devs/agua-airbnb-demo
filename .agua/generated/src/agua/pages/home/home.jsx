@@ -39,8 +39,8 @@ const Home = () =>{
 <p custom-agua-item="text" className={styles['text-10-050fec7cb1fd4677b5b6090f94d71962']}   >Airbnb your home</p>
 <span custom-agua-item="icon"   >language</span>
 <section custom-agua-item="layer" className={styles['layer-26-503c3e91ce524f208d4fe958b3be2b2a']}   >
-<span custom-agua-item="icon"   >menu</span>
-<span custom-agua-item="icon"   >person_outline</span>
+<span custom-agua-item="icon" className={styles['icon-5-521239dab55d477c80ddc047800735f9']}  >menu</span>
+<span custom-agua-item="icon" className={styles['icon-6-92a33771ab25410b91f24f388476e3b5']}  >person_outline</span>
 </section>
 </section>
 </section>
