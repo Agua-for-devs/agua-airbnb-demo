@@ -40,3 +40,29 @@ min-width: unset;
 width: 100%;
 
 }
+section.homeheader[custom-agua-item="layer"] {
+    
+
+min-height:  unset ;height: fit-content ;flex-shrink: 0;
+
+min-width: unset;
+width: 100%;
+
+}
+section.homemenu[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+min-width: unset;
+width: 100%;
+
+}
+section.divider2[custom-agua-item="layer"] {
+    
+
+background-color: #E0E0E0 ;
+height: 1px ;min-height: 1px ;
+min-width: unset;
+width: 100%;
+
+}
