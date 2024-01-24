@@ -52,10 +52,30 @@ width: 100%;
 section.homemenu[custom-agua-item="layer"] {
     
 
-height: 100px ;min-height: 100px ;
+min-height:  unset ;height: fit-content ;
 min-width: unset;
 width: 100%;
 
+}
+section.homemenudesktop[custom-agua-item="layer"] {
+    
+
+min-height:  unset ;height: fit-content ;
+min-width: unset;
+width: 100%;
+
+}
+section.layer-14-87a09d4412024edf9d4d374637b06392[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-15-50b404c305c34c4aa25f534d7851e9c9[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
 }
 section.divider2[custom-agua-item="layer"] {
     

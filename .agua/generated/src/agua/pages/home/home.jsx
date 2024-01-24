@@ -23,7 +23,12 @@ const Home = () =>{
 </section>
 <section custom-agua-item="layer" className={styles.divider}   ></section>
 <section custom-agua-item="layer" className={styles.homeheader}   >
-<section custom-agua-item="layer" className={styles.homemenu}   ></section>
+<section custom-agua-item="layer" className={styles.homemenu}   >
+<section custom-agua-item="layer" className={styles.homemenudesktop}   >
+<section custom-agua-item="layer" className={styles['layer-14-87a09d4412024edf9d4d374637b06392']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-15-50b404c305c34c4aa25f534d7851e9c9']}   ></section>
+</section>
+</section>
 <section custom-agua-item="layer" className={styles.divider2}   ></section>
 </section>
 
