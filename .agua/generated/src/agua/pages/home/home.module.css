@@ -74,6 +74,7 @@ min-height:  unset ;height: fit-content ;
 min-width: unset;
 width: 100%;
 
+position: relative;
 }
 section.layer-23-96c7ec2cb4e44fe4871e25fe4667f447[custom-agua-item="layer"] {
     flex-direction: row ;
@@ -84,6 +85,7 @@ min-height:  unset ;height: fit-content ;
 min-width: unset;
 width: 100%;
 
+position: absolute;
 }
 p.text-7-1be88a869df2490d9c3ef0f8e8987c9f[custom-agua-item="text"] {
      
@@ -117,6 +119,7 @@ section.layer-24-9cb29b486c294de5bf7e051b477a9039[custom-agua-item="layer"] {
 
 min-height:  unset ;height: fit-content ;
 min-width:  unset ;width: fit-content ;
+z-index: 1;
 }
 
 section.layer-25-e598ed483728499c8dc122cac7562be6[custom-agua-item="layer"] {
@@ -124,6 +127,7 @@ section.layer-25-e598ed483728499c8dc122cac7562be6[custom-agua-item="layer"] {
 
 min-height:  unset ;height: fit-content ;
 min-width:  unset ;width: fit-content ;
+z-index: 1;
 }
 p.text-10-050fec7cb1fd4677b5b6090f94d71962[custom-agua-item="text"] {
      
