@@ -73,6 +73,9 @@ section.layer-14-87a09d4412024edf9d4d374637b06392[custom-agua-item="layer"] {
 align-items: center ;
 justify-content: space-between ;
 
+padding-top: 18px ;
+padding-bottom: 18px ;
+box-sizing: border-box ;
 min-height:  unset ;height: fit-content ;
 min-width: unset;
 width: 100%;
@@ -96,6 +99,9 @@ font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif 
 
 
 
+margin-left: 16px ;
+margin-right: 16px ;
+box-sizing: border-box ;
 
 
 }
@@ -105,6 +111,9 @@ font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif 
 
 
 
+margin-left: 16px ;
+margin-right: 16px ;
+box-sizing: border-box ;
 
 
 }
@@ -114,6 +123,9 @@ font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif 
 
 
 
+margin-left: 16px ;
+margin-right: 16px ;
+box-sizing: border-box ;
 
 
 }
