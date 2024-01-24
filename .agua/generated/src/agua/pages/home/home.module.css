@@ -5,3 +5,18 @@ overflow-y: scroll ;
 scrollbar-width: none ;
 -ms-overflow-style: none ;
 }
+section.homebanner[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+p.text-1-d3fecca2132345e49c8c93fa9c44f55b[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+
+
+
+
+
+}
