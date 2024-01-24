@@ -45,7 +45,10 @@ const Home = () =>{
 </section>
 </section>
 <section custom-agua-item="layer" className={styles['layer-15-50b404c305c34c4aa25f534d7851e9c9']}   >
-<section custom-agua-item="layer" className={styles['layer-25-0e67ec5cda7741c28de85350c958a4df']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-25-0e67ec5cda7741c28de85350c958a4df']}   >
+<p custom-agua-item="text" className={styles['text-11-43f3cda217fd4431907a40672b74aacc']}   >Type...</p>
+<p custom-agua-item="text" className={styles['text-12-59799e6d88174c24bfc206744f770c3a']}   >Type...</p>
+</section>
 <section custom-agua-item="layer" className={styles['layer-26-c078473592374be8b5422bbe2da36f0d']}   ></section>
 <section custom-agua-item="layer" className={styles['layer-27-92d7467e5f554fe2a61e3a8fe1ebcc31']}   ></section>
 <section custom-agua-item="layer" className={styles['layer-28-36de892750474ce8831b73384aea57fe']}   ></section>
