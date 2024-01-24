@@ -44,7 +44,13 @@ const Home = () =>{
 </section>
 </section>
 </section>
-<section custom-agua-item="layer" className={styles['layer-15-50b404c305c34c4aa25f534d7851e9c9']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-15-50b404c305c34c4aa25f534d7851e9c9']}   >
+<section custom-agua-item="layer" className={styles['layer-25-0e67ec5cda7741c28de85350c958a4df']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-26-c078473592374be8b5422bbe2da36f0d']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-27-92d7467e5f554fe2a61e3a8fe1ebcc31']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-28-36de892750474ce8831b73384aea57fe']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-29-4e1033e9b8ea412abae6ed8edf646b8c']}   ></section>
+</section>
 </section>
 </section>
 <section custom-agua-item="layer" className={styles.divider2}   ></section>

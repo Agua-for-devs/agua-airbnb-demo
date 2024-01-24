@@ -200,6 +200,41 @@ height: 24px ;min-height: 24px ;
 width: 24px ;min-width: 24px ; font-size: 24px ;
 }
 section.layer-15-50b404c305c34c4aa25f534d7851e9c9[custom-agua-item="layer"] {
+    flex-direction: row ;
+
+padding-top: 10px ;
+padding-bottom: 10px ;
+padding-left: 10px ;
+padding-right: 10px ;
+box-sizing: border-box ;
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+}
+section.layer-25-0e67ec5cda7741c28de85350c958a4df[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-26-c078473592374be8b5422bbe2da36f0d[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-27-92d7467e5f554fe2a61e3a8fe1ebcc31[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-28-36de892750474ce8831b73384aea57fe[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-29-4e1033e9b8ea412abae6ed8edf646b8c[custom-agua-item="layer"] {
     
 
 height: 100px ;min-height: 100px ;
