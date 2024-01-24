@@ -29,20 +29,26 @@ Add dates
 Who
 Add guests
 
+-mobile Header
+
+Anywhere
+Any week | Add guests
+
 -navbar
 
 Cabins
 Amazing views
 Amazing pools
-Top of the world
-A-frames
+Boats
+Skiing
 Mansions
 Tiny homes
 Lakefront
 Trending
-OMG!
-Ski-in/out
 Design
+Trending
+Beachfront
+
 
 Filters
 
@@ -57,6 +63,7 @@ https://www.airbnb.com/rooms/53050214?adults=1&category_tag=Tag%3A5348&children=
 
 Guest favorite
 Milford, Pennsylvania
+4.94
 61 miles away
 Jan 22 - 28
 $350 night
@@ -67,9 +74,11 @@ https://www.airbnb.com/rooms/688213025764471394?adults=1&category_tag=Tag%3A5348
 
 Guest favorite
 Warwick, New York
+4.97
 44 miles away
 Jan 21 - 26
-$283 night
+$283
+night
 
 
 Stay3
@@ -77,6 +86,7 @@ https://www.airbnb.com/rooms/54384330?adults=1&category_tag=Tag%3A5348&children=
 
 Guest favorite
 Frenchtown, New Jersey
+5.0
 57 miles away
 Jan 12 - 17
 $295 night
@@ -87,6 +97,7 @@ https://www.airbnb.com/rooms/22465632?adults=1&category_tag=Tag%3A5348&children=
 
 Guest favorite
 Pine Bush, New York
+4.89
 62 miles away
 Jan 21 - 26
 $620 night
@@ -96,6 +107,7 @@ Stay5
 https://www.airbnb.com/rooms/45080587?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-01-10&check_out=2024-01-15&source_impression_id=p3_1704817234_s4PUn27ygCLSfbB4&previous_page_section_name=1000&federated_search_id=dd1e4b91-ce8b-4d59-bcbb-64e2113a2264
 
 Middletown, New York
+4.9
 55 miles away
 Jan 9 - 14
 $178 night
@@ -106,6 +118,7 @@ https://www.airbnb.com/rooms/39446847?adults=1&category_tag=Tag%3A5348&children=
 
 Guest favorite
 Narrowsburg, New York
+4.96
 76 miles away
 Jan 9 - 14
 $345 night
@@ -116,6 +129,7 @@ https://www.airbnb.com/rooms/6817431?adults=1&category_tag=Tag%3A5348&children=0
 
 Guest favorite
 Eldred, New York
+4.94
 72 miles away
 Jan 15 - 20
 $400 night
@@ -126,6 +140,7 @@ https://www.airbnb.com/rooms/22417806?adults=1&category_tag=Tag%3A5348&children=
 
 Guest favorite
 Pine Bush, New York
+4.87
 61 miles away
 Jan 8 - 13
 $185 night
@@ -136,6 +151,7 @@ https://www.airbnb.com/rooms/836073?adults=1&category_tag=Tag%3A5348&children=0&
 
 Guest favorite
 Narrowsburg, New York
+4.93
 79 miles away
 Jan 8 - 13
 $260 night
@@ -146,6 +162,7 @@ Stay10
 https://www.airbnb.com/rooms/26990601?adults=1&category_tag=Tag%3A5348&children=0&enable_m3_private_room=true&infants=0&pets=0&photo_id=577645073&search_mode=flex_destinations_search&check_in=2024-01-08&check_out=2024-01-13&source_impression_id=p3_1704737421_EPjgTlpmkNIebZgq&previous_page_section_name=1000
 
 Warwick, New York
+4.92
 43 miles away
 Jan 8 - 13
 $936 night
@@ -155,6 +172,7 @@ Stay11
 https://www.airbnb.com/rooms/29489646?adults=1&category_tag=Tag%3A5348&children=0&enable_m3_private_room=true&infants=0&pets=0&photo_id=602409875&search_mode=flex_destinations_search&check_in=2024-01-09&check_out=2024-01-14&source_impression_id=p3_1704737421_v4rYKHyUfZlhhmHm&previous_page_section_name=1000
 
 Bellport, New York
+4.9
 55 miles away
 Jan 9 - 14
 $599 night
@@ -164,6 +182,7 @@ Stay12
 https://www.airbnb.com/rooms/583925776591761381?adults=1&category_tag=Tag%3A5348&children=0&enable_m3_private_room=true&infants=0&pets=0&photo_id=1516965459&search_mode=flex_destinations_search&check_in=2024-01-15&check_out=2024-01-20&source_impression_id=p3_1704737421_GHE9iprTTw9Cqn1E&previous_page_section_name=1000
 
 Philipstown, New York
+4.76
 41 miles away
 Jan 15 - 20
 $436 night
@@ -233,10 +252,14 @@ Investors
 Gift cards
 Airbnb.org emergency stays
 
-© 2024 Airbnb, Inc.·TermsSitemapPrivacyYour Privacy Choices
-Choose a language
+© 2024 Airbnb, Inc.
+Terms
+Sitemap
+Privacy
+Your Privacy Choices
+
+
 English (US)
-Choose a currency
 $USD
 
 
@@ -553,3 +576,10 @@ House rentals in United States
 Pet-friendly home rentals in Dingman Township
 Family-friendly rentals in Dingman Township
 Outdoor seating rentals in Dingman Township
+
+
+-Mobile Navbar
+
+Explore
+Wishlist
+Log In
