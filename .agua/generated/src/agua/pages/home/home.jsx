@@ -1,6 +1,7 @@
 import React from 'react';
 
 
+import image_imageview_2 from '../../../Assets/Brand/Airbnb_logo.png';
 import styles from './home.module.css';
 
 /**
@@ -27,19 +28,19 @@ const Home = () =>{
 <section custom-agua-item="layer" className={styles.homemenudesktop}   >
 <section custom-agua-item="layer" className={styles['layer-14-87a09d4412024edf9d4d374637b06392']}   >
 <section custom-agua-item="layer" className={styles['layer-23-96c7ec2cb4e44fe4871e25fe4667f447']}   >
-<p custom-agua-item="text" className={styles['text-7-1be88a869df2490d9c3ef0f8e8987c9f']}   >Type...</p>
-<p custom-agua-item="text" className={styles['text-8-8fced5db04e3454086bc3bb5336e473d']}   >Type...</p>
-<p custom-agua-item="text" className={styles['text-9-406739ddf9284d7e80abdbb44e1e1eba']}   >Type...</p>
+<p custom-agua-item="text" className={styles['text-7-1be88a869df2490d9c3ef0f8e8987c9f']}   >Stays</p>
+<p custom-agua-item="text" className={styles['text-8-8fced5db04e3454086bc3bb5336e473d']}   >Experiences</p>
+<p custom-agua-item="text" className={styles['text-9-406739ddf9284d7e80abdbb44e1e1eba']}   >Online Experiences</p>
 </section>
 <section custom-agua-item="layer" className={styles['layer-24-9cb29b486c294de5bf7e051b477a9039']}   >
-<img custom-agua-item="imageView" className={styles['imageview-2-a8b0c1fc4243404a94fcf2004c05755e']}  alt="imageview-2" src='https://i.ibb.co/5ndGgWv/image-43.png'  />
+<img custom-agua-item="imageView" className={styles['imageview-2-a8b0c1fc4243404a94fcf2004c05755e']}  alt="imageview-2" src={ image_imageview_2}  />
 </section>
 <section custom-agua-item="layer" className={styles['layer-25-e598ed483728499c8dc122cac7562be6']}   >
-<p custom-agua-item="text" className={styles['text-10-050fec7cb1fd4677b5b6090f94d71962']}   >Type...</p>
+<p custom-agua-item="text" className={styles['text-10-050fec7cb1fd4677b5b6090f94d71962']}   >Airbnb your home</p>
 <span custom-agua-item="icon"   >favorite</span>
 <section custom-agua-item="layer" className={styles['layer-26-503c3e91ce524f208d4fe958b3be2b2a']}   >
-<span custom-agua-item="icon"   >favorite</span>
-<span custom-agua-item="icon"   >favorite</span>
+<span custom-agua-item="icon"   >language</span>
+<span custom-agua-item="icon"   >person_outline</span>
 </section>
 </section>
 </section>
