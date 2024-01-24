@@ -21,6 +21,7 @@ const Home = () =>{
 <section custom-agua-item="layer" className={styles.homebanner}   >
 <p custom-agua-item="text" className={styles['text-1-d3fecca2132345e49c8c93fa9c44f55b']}   >Learn about Guest Favorites, the most loved homes on Airbnb</p>
 </section>
+<section custom-agua-item="layer" className={styles.divider}   ></section>
 
             </main>
         );

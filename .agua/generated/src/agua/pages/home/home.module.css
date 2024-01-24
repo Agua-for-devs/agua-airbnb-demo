@@ -31,3 +31,12 @@ font-weight: bold ;
 
 
 }
+section.divider[custom-agua-item="layer"] {
+    
+
+background-color: #E0E0E0 ;
+height: 1px ;min-height: 1px ;
+min-width: unset;
+width: 100%;
+
+}
