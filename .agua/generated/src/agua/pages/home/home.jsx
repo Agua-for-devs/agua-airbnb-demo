@@ -32,7 +32,7 @@ const Home = () =>{
 <p custom-agua-item="text" className={styles['text-9-406739ddf9284d7e80abdbb44e1e1eba']}   >Type...</p>
 </section>
 <section custom-agua-item="layer" className={styles['layer-24-9cb29b486c294de5bf7e051b477a9039']}   >
-<img custom-agua-item="imageView"   alt="imageview-2" src='https://i.ibb.co/5ndGgWv/image-43.png'  />
+<img custom-agua-item="imageView" className={styles['imageview-2-a8b0c1fc4243404a94fcf2004c05755e']}  alt="imageview-2" src='https://i.ibb.co/5ndGgWv/image-43.png'  />
 </section>
 <section custom-agua-item="layer" className={styles['layer-25-e598ed483728499c8dc122cac7562be6']}   >
 <p custom-agua-item="text" className={styles['text-10-050fec7cb1fd4677b5b6090f94d71962']}   >Type...</p>

@@ -52,6 +52,9 @@ width: 100%;
 section.homemenu[custom-agua-item="layer"] {
     
 
+padding-left: 80px ;
+padding-right: 80px ;
+box-sizing: border-box ;
 min-height:  unset ;height: fit-content ;
 min-width: unset;
 width: 100%;
@@ -121,7 +124,11 @@ min-height:  unset ;height: fit-content ;
 min-width:  unset ;width: fit-content ;
 z-index: 1;
 }
-
+.imageview-2-a8b0c1fc4243404a94fcf2004c05755e[custom-agua-item="imageView"] {
+    
+height: 30px ;min-height: 30px ;
+width: 100px ;min-width: 100px ;
+}
 section.layer-25-e598ed483728499c8dc122cac7562be6[custom-agua-item="layer"] {
     flex-direction: row ;
 
