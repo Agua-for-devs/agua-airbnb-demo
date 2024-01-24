@@ -66,6 +66,28 @@ width: 100%;
 
 }
 section.layer-14-87a09d4412024edf9d4d374637b06392[custom-agua-item="layer"] {
+    flex-direction: row ;
+align-items: center ;
+justify-content: space-between ;
+
+min-height:  unset ;height: fit-content ;
+min-width: unset;
+width: 100%;
+
+}
+section.layer-23-96c7ec2cb4e44fe4871e25fe4667f447[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-24-9cb29b486c294de5bf7e051b477a9039[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-25-e598ed483728499c8dc122cac7562be6[custom-agua-item="layer"] {
     
 
 height: 100px ;min-height: 100px ;
