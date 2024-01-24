@@ -203,7 +203,9 @@ section.layer-15-50b404c305c34c4aa25f534d7851e9c9[custom-agua-item="layer"] {
     flex-direction: row ;
 align-items: center ;
 justify-content: center ;
-
+border: 1px solid #E0E0E0;
+border-radius: 50px ;
+box-shadow: 0px 0px 5px #E0E0E0 ;
 padding-top: 10px ;
 padding-bottom: 10px ;
 padding-left: 10px ;
