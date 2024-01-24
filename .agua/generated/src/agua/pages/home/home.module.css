@@ -15,6 +15,7 @@ padding-bottom: 22px ;
 padding-left: 80px ;
 padding-right: 80px ;
 box-sizing: border-box ;
+background-color: #F5F5F5 ;
 min-height:  unset ;height: fit-content ;flex-shrink: 0;
 
 min-width: unset;
@@ -24,8 +25,8 @@ width: 100%;
 p.text-1-d3fecca2132345e49c8c93fa9c44f55b[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
-
-
+font-size: 16px ;
+font-weight: bold ;
 
 
 
