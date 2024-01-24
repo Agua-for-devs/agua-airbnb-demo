@@ -151,13 +151,23 @@ z-index: 1;
 p.text-10-050fec7cb1fd4677b5b6090f94d71962[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 14px ;
 
 
-
+margin-left: 10px ;
+margin-right: 10px ;
+box-sizing: border-box ;
 
 
 }
-
+.icon-4-4411bf9006ae42b9ac3f049c96fce558[custom-agua-item="icon"] {
+    
+margin-left: 10px ;
+margin-right: 10px ;
+box-sizing: border-box ;
+height: 24px ;min-height: 24px ;
+width: 24px ;min-width: 24px ; font-size: 24px ;
+}
 section.layer-26-503c3e91ce524f208d4fe958b3be2b2a[custom-agua-item="layer"] {
     flex-direction: row ;
 border: 1px solid #E0E0E0;
@@ -174,16 +184,16 @@ min-width:  unset ;width: fit-content ;
 margin-left: 10px ;
 margin-right: 4px ;
 box-sizing: border-box ;
-
-
+height: 24px ;min-height: 24px ;
+width: 24px ;min-width: 24px ; font-size: 24px ;
 }
 .icon-6-92a33771ab25410b91f24f388476e3b5[custom-agua-item="icon"] {
     
 margin-left: 4px ;
 margin-right: 10px ;
 box-sizing: border-box ;
-
-
+height: 24px ;min-height: 24px ;
+width: 24px ;min-width: 24px ; font-size: 24px ;
 }
 section.layer-15-50b404c305c34c4aa25f534d7851e9c9[custom-agua-item="layer"] {
     
