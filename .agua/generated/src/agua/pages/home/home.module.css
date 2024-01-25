@@ -366,6 +366,30 @@ height: 30px ;min-height: 30px ;
 width: 100px ;min-width: 100px ;
 }
 section.layer-59-79855058d2cc45f1b62e7300647e0c3a[custom-agua-item="layer"] {
+    flex-direction: row ;
+
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+}
+section.layer-45-461f4e8fd0e745f085c81273f0a287b5[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-46-527924e5d9ea4a25a3c34ab11cfde9cc[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-47-35d2cc9245784f4399720236e4795c31[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-48-ab6288d3a79445d593232c5cdf7f4f9c[custom-agua-item="layer"] {
     
 
 height: 100px ;min-height: 100px ;
