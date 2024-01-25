@@ -62,7 +62,7 @@ const Home = () =>{
 <p custom-agua-item="text" className={styles['text-18-2ec86bbeef2742d390ceb5c038969cb7']}   >Add guests</p>
 </section>
 <section custom-agua-item="layer" className={styles['layer-29-4e1033e9b8ea412abae6ed8edf646b8c']}   >
-<span custom-agua-item="icon"   >search</span>
+<span custom-agua-item="icon" className={styles['icon-7-21b2b3b6669d47aa93520b0d127cbfe6']}  >search</span>
 </section>
 </section>
 </section>

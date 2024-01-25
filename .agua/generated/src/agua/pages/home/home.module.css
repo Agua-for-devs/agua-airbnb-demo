@@ -334,7 +334,12 @@ background-color: #FF385C ;
 min-height:  unset ;height: fit-content ;
 min-width:  unset ;width: fit-content ;
 }
-
+.icon-7-21b2b3b6669d47aa93520b0d127cbfe6[custom-agua-item="icon"] {
+    
+background: #F9F9F9 ;
+height: 28px ;min-height: 28px ;
+width: 28px ;min-width: 28px ; font-size: 28px ;
+}
 section.divider2[custom-agua-item="layer"] {
     
 
