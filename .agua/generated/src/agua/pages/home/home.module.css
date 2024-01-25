@@ -20,7 +20,7 @@ min-height:  unset ;height: fit-content ;flex-shrink: 0;
 
 min-width: unset;
 width: 100%;
-
+display: var(--homebanner_visible) ; 
 }
 p.text-1-d3fecca2132345e49c8c93fa9c44f55b[custom-agua-item="text"] {
      
@@ -52,14 +52,13 @@ width: 100%;
 section.homemenu[custom-agua-item="layer"] {
     
 
-padding-bottom: 18px ;
-padding-left: 80px ;
-padding-right: 80px ;
-box-sizing: border-box ;
 min-height:  unset ;height: fit-content ;
 min-width: unset;
 width: 100%;
-
+padding-left: var(--homemenu_padding-left) ; 
+padding-right: var(--homemenu_padding-right) ; 
+padding-bottom: var(--homemenu_padding-bottom) ; 
+padding-top: var(--homemenu_padding-top) ; 
 }
 section.homemenudesktop[custom-agua-item="layer"] {
     
@@ -522,6 +521,15 @@ width: 100%;
 @media (max-width: 480px) {main.Home[custom-agua-item="screen"] {
 	--homemenutablet_visible: none;
 	--homemenudesktop_visible: flex;
+	--homebanner_visible: flex;
+	--min-homemenu_padding-left: 80px;
+	--homemenu_padding-left: 80px;
+	--min-homemenu_padding-right: 80px;
+	--homemenu_padding-right: 80px;
+	--min-homemenu_padding-bottom: 18px;
+	--homemenu_padding-bottom: 18px;
+	--min-homemenu_padding-top: 0px;
+	--homemenu_padding-top: 0px;
 
 }
 
@@ -529,6 +537,15 @@ width: 100%;
 @media (min-width: 1020px) {main.Home[custom-agua-item="screen"]{
 	--homemenutablet_visible: none;
 	--homemenudesktop_visible: flex;
+	--homebanner_visible: flex;
+	--min-homemenu_padding-left: 80px;
+	--homemenu_padding-left: 80px;
+	--min-homemenu_padding-right: 80px;
+	--homemenu_padding-right: 80px;
+	--min-homemenu_padding-bottom: 18px;
+	--homemenu_padding-bottom: 18px;
+	--min-homemenu_padding-top: 0px;
+	--homemenu_padding-top: 0px;
 
 }
 
@@ -536,6 +553,15 @@ width: 100%;
 @media (max-width: 1019px) and (min-width: 481px) {main.Home[custom-agua-item="screen"] {
 	--homemenutablet_visible: flex;
 	--homemenudesktop_visible: none;
+	--homebanner_visible: none;
+	--min-homemenu_padding-left: 40px;
+	--homemenu_padding-left: 40px;
+	--min-homemenu_padding-right: 40px;
+	--homemenu_padding-right: 40px;
+	--min-homemenu_padding-bottom: 15px;
+	--homemenu_padding-bottom: 15px;
+	--min-homemenu_padding-top: 15px;
+	--homemenu_padding-top: 15px;
 
 }
 
