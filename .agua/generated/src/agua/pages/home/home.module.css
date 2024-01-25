@@ -361,8 +361,8 @@ z-index: 1;
 }
 .imageview-22-7e5b24a7057b42cfa759b6a758219dd6[custom-agua-item="imageView"] {
     
-height: 30px ;min-height: 30px ;
-width: 100px ;min-width: 100px ;
+height: 30px ;min-height: 30px ;min-width: var(--min-7e5b24a7057b42cfa759b6a758219dd6_valuewidth) ; 
+width: var(--7e5b24a7057b42cfa759b6a758219dd6_valuewidth); 
 }
 section.layer-59-79855058d2cc45f1b62e7300647e0c3a[custom-agua-item="layer"] {
     flex-direction: row ;
@@ -390,11 +390,10 @@ min-width:  unset ;width: fit-content ;margin-left: var(--461f4e8fd0e745f085c812
 p.text-29-de8c0cf79d694b1e930db5a309442e1e[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
-font-size: 16px ;
 font-weight: bold ;
 
 
-
+font-size: var(--de8c0cf79d694b1e930db5a309442e1e_fontSize) ; 
 }
 section.layer-46-527924e5d9ea4a25a3c34ab11cfde9cc[custom-agua-item="layer"] {
     
@@ -407,11 +406,10 @@ min-width:  unset ;width: fit-content ;margin-right: var(--527924e5d9ea4a25a3c34
 p.text-30-cb97902806784eab966175e62c12d56d[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
-font-size: 16px ;
 font-weight: bold ;
 
 
-
+font-size: var(--cb97902806784eab966175e62c12d56d_fontSize) ; 
 }
 section.layer-47-35d2cc9245784f4399720236e4795c31[custom-agua-item="layer"] {
     
@@ -424,11 +422,10 @@ min-width:  unset ;width: fit-content ;margin-left: var(--35d2cc9245784f43997202
 p.text-31-44290872039d422ab0e32d3614c38063[custom-agua-item="text"] {
      
 font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
-font-size: 16px ;
 
 
 
-
+font-size: var(--44290872039d422ab0e32d3614c38063_fontSize) ; 
 }
 section.layer-48-ab6288d3a79445d593232c5cdf7f4f9c[custom-agua-item="layer"] {
     
@@ -513,8 +510,8 @@ width: 100%;
 
 @media (max-width: 480px) {main.Home[custom-agua-item="screen"] {
 	--homemenutablet_visible: none;
-	--homemenudesktop_visible: flex;
-	--homebanner_visible: flex;
+	--homemenudesktop_visible: none;
+	--homebanner_visible: none;
 	--min-homemenu_padding-left: 80px;
 	--homemenu_padding-left: 80px;
 	--min-homemenu_padding-right: 80px;
@@ -537,6 +534,15 @@ width: 100%;
 	--b76b03ec5e9e47c4a798fb67e873a643_margin-left: 10px;
 	--min-b76b03ec5e9e47c4a798fb67e873a643_margin-right: 10px;
 	--b76b03ec5e9e47c4a798fb67e873a643_margin-right: 10px;
+	--7e5b24a7057b42cfa759b6a758219dd6_src: url(Assets/Brand/Airbnb_logo.png);
+	--min-7e5b24a7057b42cfa759b6a758219dd6_valuewidth: 100px;
+	--7e5b24a7057b42cfa759b6a758219dd6_valuewidth: 100px;
+	--min-de8c0cf79d694b1e930db5a309442e1e_fontSize: 16px;
+	--de8c0cf79d694b1e930db5a309442e1e_fontSize: 16px;
+	--min-cb97902806784eab966175e62c12d56d_fontSize: 16px;
+	--cb97902806784eab966175e62c12d56d_fontSize: 16px;
+	--min-44290872039d422ab0e32d3614c38063_fontSize: 16px;
+	--44290872039d422ab0e32d3614c38063_fontSize: 16px;
 
 }
 
@@ -567,6 +573,15 @@ width: 100%;
 	--b76b03ec5e9e47c4a798fb67e873a643_margin-left: 10px;
 	--min-b76b03ec5e9e47c4a798fb67e873a643_margin-right: 10px;
 	--b76b03ec5e9e47c4a798fb67e873a643_margin-right: 10px;
+	--7e5b24a7057b42cfa759b6a758219dd6_src: url(Assets/Brand/Airbnb_logo.png);
+	--min-7e5b24a7057b42cfa759b6a758219dd6_valuewidth: 100px;
+	--7e5b24a7057b42cfa759b6a758219dd6_valuewidth: 100px;
+	--min-de8c0cf79d694b1e930db5a309442e1e_fontSize: 16px;
+	--de8c0cf79d694b1e930db5a309442e1e_fontSize: 16px;
+	--min-cb97902806784eab966175e62c12d56d_fontSize: 16px;
+	--cb97902806784eab966175e62c12d56d_fontSize: 16px;
+	--min-44290872039d422ab0e32d3614c38063_fontSize: 16px;
+	--44290872039d422ab0e32d3614c38063_fontSize: 16px;
 
 }
 
@@ -574,7 +589,7 @@ width: 100%;
 @media (max-width: 1019px) and (min-width: 481px) {main.Home[custom-agua-item="screen"] {
 	--homemenutablet_visible: flex;
 	--homemenudesktop_visible: none;
-	--homebanner_visible: none;
+	--homebanner_visible: flex;
 	--min-homemenu_padding-left: 40px;
 	--homemenu_padding-left: 40px;
 	--min-homemenu_padding-right: 40px;
@@ -597,6 +612,15 @@ width: 100%;
 	--b76b03ec5e9e47c4a798fb67e873a643_margin-left: 5px;
 	--min-b76b03ec5e9e47c4a798fb67e873a643_margin-right: 5px;
 	--b76b03ec5e9e47c4a798fb67e873a643_margin-right: 5px;
+	--7e5b24a7057b42cfa759b6a758219dd6_src: url(Assets/Brand/Airbnb_logo_icon.png);
+	--min-7e5b24a7057b42cfa759b6a758219dd6_valuewidth: 30px;
+	--7e5b24a7057b42cfa759b6a758219dd6_valuewidth: 30px;
+	--min-de8c0cf79d694b1e930db5a309442e1e_fontSize: 14px;
+	--de8c0cf79d694b1e930db5a309442e1e_fontSize: 14px;
+	--min-cb97902806784eab966175e62c12d56d_fontSize: 14px;
+	--cb97902806784eab966175e62c12d56d_fontSize: 14px;
+	--min-44290872039d422ab0e32d3614c38063_fontSize: 14px;
+	--44290872039d422ab0e32d3614c38063_fontSize: 14px;
 
 }
 

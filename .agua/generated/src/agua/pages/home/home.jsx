@@ -3,6 +3,9 @@ import React from 'react';
 
 import image_imageview_2 from '../../../Assets/Brand/Airbnb_logo.png';
 import image_imageview_22 from '../../../Assets/Brand/Airbnb_logo.png';
+import image_imageview_22_phone from '../../../Assets/Brand/Airbnb_logo.png';
+import image_imageview_22tablet from '../../../Assets/Brand/Airbnb_logo_icon.png';
+import image_imageview_22desktop from '../../../Assets/Brand/Airbnb_logo.png';
 import styles from './home.module.css';
 
 /**
@@ -69,7 +72,12 @@ const Home = () =>{
 </section>
 <section custom-agua-item="layer" className={styles.homemenutablet}   >
 <section custom-agua-item="layer" className={styles['layer-242-aa7dd3380b084d4cbcbedaf11174c1e1']}   >
-<img custom-agua-item="imageView" className={styles['imageview-22-7e5b24a7057b42cfa759b6a758219dd6']}  alt="imageview-22" src={ image_imageview_22}  />
+<picture>
+<source srcSet={ image_imageview_22_phone } media="(max-width: 480px)" />
+<source srcSet={ image_imageview_22tablet } media="(max-width: 1019px) and (min-width: 481px)" />
+<source srcSet={ image_imageview_22desktop } media="min-width: 1020px)" />
+<img custom-agua-item="imageView" className={styles['imageview-22-7e5b24a7057b42cfa759b6a758219dd6']}  alt="imageview-22" src={ image_imageview_22 }  />
+</picture>
 </section>
 <section custom-agua-item="layer" className={styles['layer-59-79855058d2cc45f1b62e7300647e0c3a']}   >
 <section custom-agua-item="layer" className={styles['layer-45-461f4e8fd0e745f085c81273f0a287b5']}   >
