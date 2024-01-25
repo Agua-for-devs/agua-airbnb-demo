@@ -52,6 +52,7 @@ width: 100%;
 section.homemenu[custom-agua-item="layer"] {
     
 
+padding-bottom: 18px ;
 padding-left: 80px ;
 padding-right: 80px ;
 box-sizing: border-box ;
@@ -62,6 +63,8 @@ width: 100%;
 }
 section.homemenudesktop[custom-agua-item="layer"] {
     
+justify-content: center ;
+align-items: center ;
 
 min-height:  unset ;height: fit-content ;
 min-width: unset;
