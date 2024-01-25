@@ -2,6 +2,7 @@ import React from 'react';
 
 
 import image_imageview_2 from '../../../Assets/Brand/Airbnb_logo.png';
+import image_imageview_22 from '../../../Assets/Brand/Airbnb_logo.png';
 import styles from './home.module.css';
 
 /**
@@ -63,6 +64,19 @@ const Home = () =>{
 </section>
 <section custom-agua-item="layer" className={styles['layer-29-4e1033e9b8ea412abae6ed8edf646b8c']}   >
 <span custom-agua-item="icon" className={styles['icon-7-21b2b3b6669d47aa93520b0d127cbfe6']}  >search</span>
+</section>
+</section>
+</section>
+<section custom-agua-item="layer" className={styles.homemenutablet}   >
+<section custom-agua-item="layer" className={styles['layer-242-aa7dd3380b084d4cbcbedaf11174c1e1']}   >
+<img custom-agua-item="imageView" className={styles['imageview-22-7e5b24a7057b42cfa759b6a758219dd6']}  alt="imageview-22" src={ image_imageview_22}  />
+</section>
+<section custom-agua-item="layer" className={styles['layer-252-a7ad8d057a6a44f4b3a696595d98ef80']}   >
+<p custom-agua-item="text" className={styles['text-102-7274e59096d94e26b0f2b14336863ff7']}   >Airbnb your home</p>
+<span custom-agua-item="icon" className={styles['icon-42-b76b03ec5e9e47c4a798fb67e873a643']}  >language</span>
+<section custom-agua-item="layer" className={styles['layer-262-d9e3ea701deb42c1ab112bfdeacbc8c8']}   >
+<span custom-agua-item="icon" className={styles['icon-52-b290d7d849e6400c9041836c7eef504e']}  >menu</span>
+<span custom-agua-item="icon" className={styles['icon-62-0c65f2a5a0354990addb9d4508d1084a']}  >person_outline</span>
 </section>
 </section>
 </section>

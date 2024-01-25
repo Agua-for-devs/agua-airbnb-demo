@@ -343,6 +343,80 @@ background: #F9F9F9 ;
 height: 28px ;min-height: 28px ;
 width: 28px ;min-width: 28px ; font-size: 28px ;
 }
+section.homemenutablet[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.layer-242-aa7dd3380b084d4cbcbedaf11174c1e1[custom-agua-item="layer"] {
+    
+
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+z-index: 1;
+}
+.imageview-22-7e5b24a7057b42cfa759b6a758219dd6[custom-agua-item="imageView"] {
+    
+height: 30px ;min-height: 30px ;
+width: 100px ;min-width: 100px ;
+}
+section.layer-252-a7ad8d057a6a44f4b3a696595d98ef80[custom-agua-item="layer"] {
+    flex-direction: row ;
+align-items: center ;
+justify-content: center ;
+
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+z-index: 1;
+}
+p.text-102-7274e59096d94e26b0f2b14336863ff7[custom-agua-item="text"] {
+     
+font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Roboto', sans-serif ;
+font-size: 14px ;
+
+
+margin-left: 10px ;
+margin-right: 10px ;
+box-sizing: border-box ;
+
+
+}
+.icon-42-b76b03ec5e9e47c4a798fb67e873a643[custom-agua-item="icon"] {
+    
+margin-left: 10px ;
+margin-right: 10px ;
+box-sizing: border-box ;
+height: 24px ;min-height: 24px ;
+width: 24px ;min-width: 24px ; font-size: 24px ;
+}
+section.layer-262-d9e3ea701deb42c1ab112bfdeacbc8c8[custom-agua-item="layer"] {
+    flex-direction: row ;
+border: 1px solid #E0E0E0;
+border-radius: 25px ;
+padding-top: 10px ;
+padding-bottom: 10px ;
+margin-left: 8px ;
+box-sizing: border-box ;
+min-height:  unset ;height: fit-content ;
+min-width:  unset ;width: fit-content ;
+}
+.icon-52-b290d7d849e6400c9041836c7eef504e[custom-agua-item="icon"] {
+    
+margin-left: 10px ;
+margin-right: 4px ;
+box-sizing: border-box ;
+height: 24px ;min-height: 24px ;
+width: 24px ;min-width: 24px ; font-size: 24px ;
+}
+.icon-62-0c65f2a5a0354990addb9d4508d1084a[custom-agua-item="icon"] {
+    
+margin-left: 4px ;
+margin-right: 10px ;
+box-sizing: border-box ;
+height: 24px ;min-height: 24px ;
+width: 24px ;min-width: 24px ; font-size: 24px ;
+}
 section.divider2[custom-agua-item="layer"] {
     
 
