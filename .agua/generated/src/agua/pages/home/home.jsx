@@ -104,6 +104,9 @@ const Home = () =>{
 </section>
 </section>
 <section custom-agua-item="layer" className={styles.divider2}   ></section>
+<section custom-agua-item="layer" className={styles.homenavbar}   >
+<section custom-agua-item="layer" className={styles.homemobilesearch}   ></section>
+</section>
 </section>
 
             </main>

@@ -507,6 +507,18 @@ min-width: unset;
 width: 100%;
 
 }
+section.homenavbar[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
+section.homemobilesearch[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
+}
 
 @media (max-width: 480px) {main.Home[custom-agua-item="screen"] {
 	--homemenutablet_visible: none;
