@@ -72,10 +72,18 @@ const Home = () =>{
 <img custom-agua-item="imageView" className={styles['imageview-22-7e5b24a7057b42cfa759b6a758219dd6']}  alt="imageview-22" src={ image_imageview_22}  />
 </section>
 <section custom-agua-item="layer" className={styles['layer-59-79855058d2cc45f1b62e7300647e0c3a']}   >
-<section custom-agua-item="layer" className={styles['layer-45-461f4e8fd0e745f085c81273f0a287b5']}   ></section>
-<section custom-agua-item="layer" className={styles['layer-46-527924e5d9ea4a25a3c34ab11cfde9cc']}   ></section>
-<section custom-agua-item="layer" className={styles['layer-47-35d2cc9245784f4399720236e4795c31']}   ></section>
-<section custom-agua-item="layer" className={styles['layer-48-ab6288d3a79445d593232c5cdf7f4f9c']}   ></section>
+<section custom-agua-item="layer" className={styles['layer-45-461f4e8fd0e745f085c81273f0a287b5']}   >
+<p custom-agua-item="text" className={styles['text-29-de8c0cf79d694b1e930db5a309442e1e']}   >Anywhere</p>
+</section>
+<section custom-agua-item="layer" className={styles['layer-46-527924e5d9ea4a25a3c34ab11cfde9cc']}   >
+<p custom-agua-item="text" className={styles['text-30-cb97902806784eab966175e62c12d56d']}   >Any week</p>
+</section>
+<section custom-agua-item="layer" className={styles['layer-47-35d2cc9245784f4399720236e4795c31']}   >
+<p custom-agua-item="text" className={styles['text-31-44290872039d422ab0e32d3614c38063']}   >Add guests</p>
+</section>
+<section custom-agua-item="layer" className={styles['layer-48-ab6288d3a79445d593232c5cdf7f4f9c']}   >
+<span custom-agua-item="icon" className={styles['icon-15-3f4702d6146c48ce9b0591093505bd23']}  >search</span>
+</section>
 </section>
 <section custom-agua-item="layer" className={styles['layer-252-a7ad8d057a6a44f4b3a696595d98ef80']}   >
 <p custom-agua-item="text" className={styles['text-102-7274e59096d94e26b0f2b14336863ff7']}   >Airbnb your home</p>
