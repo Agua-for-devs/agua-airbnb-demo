@@ -71,6 +71,7 @@ const Home = () =>{
 <section custom-agua-item="layer" className={styles['layer-242-aa7dd3380b084d4cbcbedaf11174c1e1']}   >
 <img custom-agua-item="imageView" className={styles['imageview-22-7e5b24a7057b42cfa759b6a758219dd6']}  alt="imageview-22" src={ image_imageview_22}  />
 </section>
+<section custom-agua-item="layer" className={styles['layer-59-79855058d2cc45f1b62e7300647e0c3a']}   ></section>
 <section custom-agua-item="layer" className={styles['layer-252-a7ad8d057a6a44f4b3a696595d98ef80']}   >
 <p custom-agua-item="text" className={styles['text-102-7274e59096d94e26b0f2b14336863ff7']}   >Airbnb your home</p>
 <span custom-agua-item="icon" className={styles['icon-42-b76b03ec5e9e47c4a798fb67e873a643']}  >language</span>

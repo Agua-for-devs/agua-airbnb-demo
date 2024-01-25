@@ -344,10 +344,14 @@ height: 28px ;min-height: 28px ;
 width: 28px ;min-width: 28px ; font-size: 28px ;
 }
 section.homemenutablet[custom-agua-item="layer"] {
-    
+    flex-direction: row ;
+align-items: center ;
+justify-content: space-between ;
 
-height: 100px ;min-height: 100px ;
-width: 300px ;min-width: 300px ;
+min-height:  unset ;height: fit-content ;
+min-width: unset;
+width: 100%;
+
 }
 section.layer-242-aa7dd3380b084d4cbcbedaf11174c1e1[custom-agua-item="layer"] {
     
@@ -360,6 +364,12 @@ z-index: 1;
     
 height: 30px ;min-height: 30px ;
 width: 100px ;min-width: 100px ;
+}
+section.layer-59-79855058d2cc45f1b62e7300647e0c3a[custom-agua-item="layer"] {
+    
+
+height: 100px ;min-height: 100px ;
+width: 300px ;min-width: 300px ;
 }
 section.layer-252-a7ad8d057a6a44f4b3a696595d98ef80[custom-agua-item="layer"] {
     flex-direction: row ;
