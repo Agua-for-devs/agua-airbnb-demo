@@ -11,14 +11,6 @@ Welcome to the Airbnb Demo WebApp Project repository, powered by Agua. This proj
 #### Fork or Clone the Repository
 You can start by forking this repository or cloning it using:
 
-`git clone https://github.com/Agua-for-devs/agua-airbnb-demo.git`
-
-#### Navigate to the Repository
-Change directory to your cloned repository:
-
-`cd agua-airbnb-demo`
-
-
 ## Repository Structure
 
 - **Assets Branch (main):** Contains all the textual content and images required for the webpage.
