@@ -22,7 +22,6 @@ Change directory to your cloned repository:
 ## Repository Structure
 
 - **Assets Branch (main):** Contains all the textual content and images required for the webpage.
-- **Sample Branch (sample):** Provides a reference Agua project showcasing the expected end result.
 
 ### Important Directories and Files
 
